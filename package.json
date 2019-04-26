@@ -1,0 +1,29 @@
+{
+  "name": "happyhour_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobmott/happyhour_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobmott/happyhour_api/issues"
+  },
+  "homepage": "https://github.com/jacobmott/happyhour_api#readme",
+  "dependencies": {
+    "aws-sdk": "^2.437.0"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.4",
+    "serverless": "^1.40.0",
+    "serverless-offline": "^4.9.4",
+    "typescript": "^3.4.3",
+    "webpack": "^4.30.0"
+  }
+}
